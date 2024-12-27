@@ -53,7 +53,7 @@ Welcome to the Food Delivery App! This project is a modern and responsive food o
    ```  
 
 4. **Open in Browser**  
-   Navigate to `http://localhost:3000` to access the app locally.  
+   Navigate to `http://localhost:4000` to access the app locally.  
 
 ---
 
